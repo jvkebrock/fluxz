@@ -5,15 +5,16 @@
     },
     "ios": {
         "url": "#",
-        "status_text": "Maintenance"
+        "status_text": "Coming Soon"
     },
     "android": {
-        "version_label": "Latest v2.645",
+        "version_label": "Latest v3.9,0",
         "architectures": {
-            "bit64": "https://example.com/dl/android-64",
-            "bit32": "https://sex.com",
-            "vng64": "#",
+            "bit64": "https://www.mediafire.com/file/7iizmrzio32qsve/FluxusZ+V3.0.6+ARM64.apk/file",
+            "bit32": "https://www.mediafire.com/file/wk9wfhmxvi3se9q/FluxusZ+ARM32+V3.0.6.apk/file",
+            "vng64": "https://www.mediafire.com/file/v2iuh5a7klnu84j/FluxusZ+V3.0.6+VNG+ARM64.apk/file",
             "vng32": "#"
         }
     }
+
 }
