@@ -1,0 +1,38 @@
+{
+    "essential": {
+        "price": "$4.99",
+        "duration": "Monthly",
+        "link": "https://example.com/buy/essential",
+        "features": [
+            "Level 8 Execution",
+            "No Key System",
+            "Standard Support",
+            "2 Scripts Hub"
+        ]
+    },
+    "prime": {
+        "price": "$14.99",
+        "duration": "Lifetime",
+        "link": "https://example.com/buy/prime",
+        "features": [
+            "Everything in Essential",
+            "Priority Injection",
+            "Cloud Scripts Save",
+            "Private Discord Access",
+            "Early Updates"
+        ]
+    },
+    "titanium": {
+        "price": "$29.99",
+        "duration": "Lifetime +",
+        "link": "https://example.com/buy/titanium",
+        "features": [
+            "Everything in Prime",
+            "Custom UI Themes",
+            "HWID Spoofer",
+            "Developer API Access",
+            "1-on-1 Support",
+            "Hidden from Task Manager"
+        ]
+    }
+}

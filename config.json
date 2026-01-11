@@ -1,0 +1,19 @@
+{
+    "windows": {
+        "url": "#",
+        "status_text": "Coming Soon"
+    },
+    "ios": {
+        "url": "#",
+        "status_text": "Maintenance"
+    },
+    "android": {
+        "version_label": "Latest v2.645",
+        "architectures": {
+            "bit64": "https://example.com/dl/android-64",
+            "bit32": "https://sex.com",
+            "vng64": "#",
+            "vng32": "#"
+        }
+    }
+}
