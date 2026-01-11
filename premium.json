@@ -11,7 +11,7 @@
         ]
     },
     "prime": {
-        "price": "$4.99",
+        "price": "$9.99",
         "duration": "6 month",
         "link": "https://fluxusz.mysellauth.com/product/fluxusz-prime",
         "features": [
@@ -37,3 +37,4 @@
     }
 
 }
+
