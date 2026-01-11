@@ -5,9 +5,10 @@
             "name": "Frostware Android",
             "description": "Experience the next level of mobile execution. Unmatched stability, Level 8 script support, and a completely redesigned interface for seamless gaming.",
             "image": "Frostware.png",
-            "link": "#",
+            "link": "https://getfrosts.org",
             "tag": "NEW RELEASE",
             "is_featured": true
         }
     ]
+
 }
