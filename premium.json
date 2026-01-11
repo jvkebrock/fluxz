@@ -2,37 +2,38 @@
     "essential": {
         "price": "$4.99",
         "duration": "Monthly",
-        "link": "https://example.com/buy/essential",
+        "link": "https://fluxusz.mysellauth.com/product/fluxusz-essential",
         "features": [
-            "Level 8 Execution",
-            "No Key System",
+            "Exclusive role in our server",
+            "completely ad-free",
             "Standard Support",
-            "2 Scripts Hub"
+            "1 monthly key"
         ]
     },
     "prime": {
-        "price": "$14.99",
-        "duration": "Lifetime",
-        "link": "https://example.com/buy/prime",
+        "price": "$4.99",
+        "duration": "6 month",
+        "link": "https://fluxusz.mysellauth.com/product/fluxusz-prime",
         "features": [
-            "Everything in Essential",
-            "Priority Injection",
-            "Cloud Scripts Save",
-            "Private Discord Access",
+            "3 half-yearly key",
+            "Exclusive utility support",
+            "Priority support",
+            "Exclusive role in our server",
             "Early Updates"
         ]
     },
     "titanium": {
-        "price": "$29.99",
+        "price": "$24.99",
         "duration": "Lifetime +",
-        "link": "https://example.com/buy/titanium",
+        "link": "https://fluxusz.mysellauth.com/product/fluxusz-titanium-tier",
         "features": [
-            "Everything in Prime",
-            "Custom UI Themes",
-            "HWID Spoofer",
-            "Developer API Access",
-            "1-on-1 Support",
-            "Hidden from Task Manager"
+            "Everything in Ruby",
+            "Exclusive role in our server",
+            "Infinite HWID reset",
+            "Personal conversation with management team",
+            "Exclusive 24/7 support",
+            "Early updates"
         ]
     }
+
 }
